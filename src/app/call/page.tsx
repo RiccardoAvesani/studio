@@ -187,6 +187,7 @@ const CallPage: React.FC = () => {
     }, [selectedFunction, formValues, handleInputChange, handleSubmit, config]);
 
     return (
+        <>
         <div className="container py-10">
             <div className="grid gap-4">
                 <Card>
@@ -344,7 +345,11 @@ const CallPage: React.FC = () => {
                 </Card>
             </div>
         </div>
+        </>
     );
 };
 
 export default CallPage;
+
+
+    

@@ -1,5 +1,5 @@
 
-import {ArrowRight, Check, ChevronsUpDown, Circle, Copy, Edit, ExternalLink, File, HelpCircle, Home, Loader2, Mail, MessageSquare, Moon, Plus, PlusCircle, Search, Server, Settings, Share2, Shield, Sun, Trash, User, X, Workflow, Gear, List, Play, RefreshCw, Download, Trash2} from 'lucide-react';
+import {ArrowRight, Check, ChevronsUpDown, Circle, Copy, Edit, ExternalLink, File, HelpCircle, Home, Loader2, Mail, MessageSquare, Moon, Plus, PlusCircle, Search, Server, Settings, Share2, Shield, Sun, Trash, User, X, Workflow, List, Play, RefreshCw, Download, Trash2} from 'lucide-react';
 
 const Icons = {
   arrowRight: ArrowRight,
@@ -29,7 +29,7 @@ const Icons = {
   spinner: Loader2,
   trash: Trash,
   user: User,
-  gear: Gear,
+  gear: Settings,
   list: List,
   play: Play,
   refresh: RefreshCw,
